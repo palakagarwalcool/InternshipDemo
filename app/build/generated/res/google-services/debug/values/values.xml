@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">569405715393-hd7j4s9br1oblkobiicat4t5ooae7m3g.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://internship-42458-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">569405715393</string>
+    <string name="google_api_key" translatable="false">AIzaSyCMVudA5NIM1wY0K4BGoVDCNbO6EzMt5tI</string>
+    <string name="google_app_id" translatable="false">1:569405715393:android:ff73b0ac9cf5b052583540</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCMVudA5NIM1wY0K4BGoVDCNbO6EzMt5tI</string>
+    <string name="google_storage_bucket" translatable="false">internship-42458.appspot.com</string>
+    <string name="project_id" translatable="false">internship-42458</string>
+</resources>
